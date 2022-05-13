@@ -1,3 +1,6 @@
+# Setup
+To setup, go to [this link](https://flightaware.com/commercial/firehose/), start a free trial and follow the given instructions.
+
 [![Docker Image CI](https://github.com/flightaware/firestarter/workflows/Docker%20Image%20CI/badge.svg)](https://github.com/flightaware/firestarter/actions?query=workflow%3A%22Docker+Image+CI%22)
 # Firestarter - Getting started with FlightAware Firehose
 Firestarter is a small collection of services and sample applications to help
